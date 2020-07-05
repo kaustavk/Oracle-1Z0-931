@@ -32,7 +32,9 @@ SQL Developer:
 
 DBMS_CLOUD.COPY_DATA
 ---------------------
-- The source file can be in either Oracle Standard Storage or Oracle Archive Storage bucket in the Object Store. 
+- If your source files reside in Oracle Cloud Infrastructure Object Storage Classic, the username is your Oracle Cloud Infrastructure Classic user name and the password is your Oracle Cloud Infrastructure Classic password
+- If your source files reside in Amazon S3 or you are calling an AWS API, the username is your AWS access key ID and the password is your AWS secret access key
+- If your source files reside in Azure Blob Storage or you are calling an Azure API, the username is your Azure storage account name and the password is an Azure storage account access key.
 - A valid credential must be created prior to running the DBMS_CLOUD.COPY_DATA procedure.
 
 
