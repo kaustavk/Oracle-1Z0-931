@@ -1,4 +1,8 @@
-# Oracle-1Z0-931
+# Oracle-1Z0-931   <p>       </p>  <img src="images/logo2.JPG" alt="logo2.JPG" style="zoom:20%;" />
+
+## Comprehensive cheat sheet to pass Oracle 1Z0-1085 Exam
+
+------
 
 Data Pump:
 ----------
@@ -180,4 +184,35 @@ Miscellaneous:
 - Default retention period for both Automatic and Manual Autonomous Database Backups **-->** 60 days
 - Low provides highest concurrency, lowest resources, and DoP =1
 - The Way SQL Developer help you test your data loading scenario **-->** In the Column Definition Phase, the system cross-references with the file-contents and shows the conflicts with the definition.
+
+------
+
+**1Z0-1085:**
+https://www.udemy.com/course/1z0-1085-20-oraclecloudinfrastructurefoundationsassociate
+
+**1Z0-1067:**
+https://www.udemy.com/course/oracle-cloud-infrastructure-cloud-operations-associate/
+
+**1Z0-1072:**
+https://www.udemy.com/course/1z0-1072-oracle-cloud-infra-architect-associate/
+
+**1Z0-1084:**
+https://www.udemy.com/course/oracle-cloud-infra-developer-2020-associate-practice-test/
+
+**1Z0-931:**
+https://www.udemy.com/course/oracle-autonomous-database-cloud-specialist-1z0-931-practice-test/
+
+**1Z0-997:**
+https://www.udemy.com/course/1z0-997-oracle-cloud-infrastructure-architect-professional-k
+
+
+
+**Note:** For Active Coupon please contact us through below mail id 
+
+------
+
+**Contact Us:**
+
+[digitechcloud20@gmail.com]()
+
 
